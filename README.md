@@ -50,4 +50,8 @@ Para la debida conexión con el robot se estableció por USB, se definió Home y
 - Primero se hizo una prueba en LOW POWER para mirar el correcto funcionamiento del código sin llamar las funciones
 - Una vez verificado que el código funciona correctamente se quita la casilla de LOW POWER y el robot ejecuta las funciones correctamente.
 
-https://youtu.be/-4INf5pHHNA?si=TjSUPCf2pic9-xDL
+# Video de comprobación de funcionamiento
+
+[![IMAGE ALT TEXT HERE]([https://www.youtube.com/watch?v=V4ZzZhOP_X8](https://youtu.be/-4INf5pHHNA?si=TjSUPCf2pic9-xDL)https://youtu.be/-4INf5pHHNA?si=TjSUPCf2pic9-xDL)
+
+
