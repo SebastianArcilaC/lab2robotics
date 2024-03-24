@@ -1,2 +1,3 @@
-# lab2robotics
-Laboratorio #2 realizado en EPSON con la solución empleada en el laboratorio
+# Laboratorio 2
+# Joan Sebastian Arcila Cardozo
+# Gustavo Adolfo Ropero Bastidas
