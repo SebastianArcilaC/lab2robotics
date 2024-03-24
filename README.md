@@ -17,12 +17,14 @@ Para comenzar, se abre el software EPSON RC + 7.0 y se crea una conexión virtua
 
 
   - Creación de una Posición de Home
-Una vez establecida la conexión y configuración del robot, se abre un nuevo proyecto y se utiliza el Robot Manager para configurar una posición de home. Esta posición servirá como punto de referencia inicial para los movimientos del robot durante la operación. Pero al momento de hacer la practica el ingeniero nos indico establer el home que nosotros quisieramos para que aprendieramos a establecerlos utilizando el robot, estos fueron los que escogimos:
+Una vez establecida la conexión y configuración del robot, se abre un nuevo proyecto y se utiliza el Robot Manager para configurar una posición de home. Esta posición servirá como punto de referencia inicial para los movimientos del robot durante la operación. Pero al momento de hacer la practica el ingeniero nos indico establer el home que nosotros quisieramos para que aprendieramos a establecerlos utilizando el robot
 
 
   - Creación de Puntos y Programación en SPEL+
 A continuación, se utilizan las herramientas de JOG&TEACH para crear tres puntos con coordenadas aproximadas. Estos puntos son cruciales para definir los movimientos del robot durante la operación. Posteriormente, se programa un programa en SPEL+ siguiendo la estructura básica proporcionada en la documentación. Este programa permite al robot navegar entre los tres puntos creados, estos valores tambien fueron modificos durante la practica, asi que son puntos unicamente establecicos por nosoros, tanto Z, como origen eje x y eje y.
+
 ![image](https://github.com/SebastianArcilaC/lab2robotics/assets/115434124/478ab764-5ccf-47ca-9246-c3e334b712bf)
+![image](https://github.com/SebastianArcilaC/lab2robotics/assets/115434124/d26e9b9c-92e4-41e2-ab52-511f6ed7e072)
 
 
   - Generación de Funciones de Paletizado
