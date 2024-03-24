@@ -52,6 +52,6 @@ Para la debida conexión con el robot se estableció por USB, se definió Home y
 
 # Video de comprobación de funcionamiento
 
-[![Alt text](https://img.youtube.com/vi/https://youtu.be/-4INf5pHHNA?si=TjSUPCf2pic9-xDL/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/-4INf5pHHNA?si=TjSUPCf2pic9-xDL)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TjSUPCf2pic9-xDL/0.jpg)](https://youtu.be/-4INf5pHHNA?si=TjSUPCf2pic9-xDL)
 
 
